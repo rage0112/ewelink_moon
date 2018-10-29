@@ -1,0 +1,55 @@
+{
+  "_from": "homebridge-ewelink-plus",
+  "_id": "homebridge-ewelink-plus@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha512-C29yL3rTM2+sHJ+yyvDZR/XuLw1AKJInSdUr4RKBwLt83MAPd3JpSnXh5HGjxhluq84cFZbCu2WhCfxNAlm3XQ==",
+  "_location": "/homebridge-ewelink-plus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-ewelink-plus",
+    "name": "homebridge-ewelink-plus",
+    "escapedName": "homebridge-ewelink-plus",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-ewelink-plus/-/homebridge-ewelink-plus-0.1.4.tgz",
+  "_shasum": "d34c924eb0960dde0aea192eb0d91cf7acb316d4",
+  "_spec": "homebridge-ewelink-plus",
+  "_where": "C:\\WINDOWS\\system32",
+  "author": {
+    "name": "gbro115 && Tomasz Bzymek"
+  },
+  "bugs": {
+    "url": "https://github.com/MrTomAsh/homebridge-ewelink/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "nonce": "^1.0.4",
+    "request-json": "^0.6.2",
+    "ws": "^3.3.2"
+  },
+  "deprecated": false,
+  "description": "homebridge-eWeLink-plus is a Homebrige plugin (forked from the homebridge-eWeLink and upgraded) to control Sonoff relays running OEM firmware",
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://github.com/MrTomAsh/homebridge-ewelink#readme",
+  "keywords": [
+    "homebridge-plugin",
+    "sonoff"
+  ],
+  "license": "MIT",
+  "name": "homebridge-ewelink-plus",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTomAsh/homebridge-ewelink.git"
+  },
+  "version": "0.1.4"
+}
